@@ -1,0 +1,22 @@
+.card__circle {
+    margin: 0;
+    position: absolute;
+    right: 16px;
+    bottom: 16px;
+    border-radius: 50%;
+    background-color: rgba(22, 152, 217, 1);
+    width: 80px;
+    height: 80px;
+}
+
+.card__circle_text {
+    margin: 0;
+    font-family: 'Trebuchet MS';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 22px;
+    color: #FFFFFF;
+    text-align: center;
+}
+

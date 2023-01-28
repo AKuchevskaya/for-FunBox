@@ -1,0 +1,12 @@
+.page {
+	margin: 0 auto;
+	padding: 0;
+	display: flex;
+	flex-direction: column;
+    background-color: #000000;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 5e-05) 49.88%, rgba(0, 0, 0, 0.5) 100%);
+    background-image: url('../../image/Pattern@2x.png');
+	font-family: 'Exo', Arial, sans-serif;
+	color: #000000;
+	font-style: normal;
+}

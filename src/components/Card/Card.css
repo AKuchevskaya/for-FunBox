@@ -1,0 +1,46 @@
+.card__container {
+    margin: 0;
+    width: 320px;
+    height: 509px;
+    position: relative;
+    z-index: 1;
+    background-color: blueviolet;
+}
+.card__picture {
+    background-color:rgba(242, 242, 242, 1);
+    background-image: url("../../image/Photo.png");
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-size: cover;
+    width: 320px;
+    height: 480px;
+    
+  }
+  
+  .card__container:after {
+    background: inherit;
+    bottom: 0;
+    content: '';
+    display: block;
+    height: 50%;
+    left: 0;
+    position: absolute;
+    right: 0;
+    transform: skewY(-5deg);
+    transform-origin: 100%;
+    z-index: -1;
+}
+
+.card__question {
+    font-family: 'Trebuchet MS';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.card__link {
+    color: #1698D9;
+}
