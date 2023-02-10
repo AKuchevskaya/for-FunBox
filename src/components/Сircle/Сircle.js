@@ -1,9 +1,9 @@
-import './Circle.css';
+import "./Circle.css";
 
-function Circle () {
+function Circle() {
   return (
     <div className="card__circle">
-        <p className="card__circle_text">0,5 кг</p>
+      <p className="card__circle_text">0,5 кг</p>
     </div>
   );
 }

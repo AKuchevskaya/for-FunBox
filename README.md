@@ -1,20 +1,21 @@
 # Это проект на React для компании FunBox
 
-## Описание  
+## Описание
+
 Проект представляет собой адаптивную страницу с выбором корма для кошек.  
 для каждого состояния необходимо отображить корректное поведение каждой карточки.  
 Для верстки используются flex, grid, медиа запросы.
 Для именования файлов - методология БЭМ.
 
 Для запуска проекта используйте команду:
- `npm start`
+`npm start`
 
 В браузере откроется страница [http://localhost:3000](http://localhost:3000).
 
 Для продакшн сборки проекта запустите команду:
- `npm run build`
+`npm run build`
 
-## Технологии:  
+## Технологии:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
